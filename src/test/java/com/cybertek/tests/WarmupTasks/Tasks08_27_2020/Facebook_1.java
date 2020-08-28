@@ -10,5 +10,6 @@ public class Facebook_1 {
 
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
+
     }
 }
